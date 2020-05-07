@@ -1,0 +1,27 @@
+body{
+    background: rgb(163, 72, 72); 
+    margin: 50px; 
+    margin-left: 100px;
+}
+header{
+    margin-top: 55px;
+}
+
+h1{
+    color: royalblue;
+    font-family: fantasy;
+}
+h2{
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+p{
+    font-size: 20px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+
+}
